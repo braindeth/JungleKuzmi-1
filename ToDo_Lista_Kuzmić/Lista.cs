@@ -11,6 +11,7 @@ namespace ToDo_Lista_Kuzmić
         public Lista ()
         {
         }
+    
 
         public string Name { get; set; }
         public string Desc { get; set; }

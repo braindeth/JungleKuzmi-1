@@ -131,7 +131,9 @@ namespace ToDo_Lista_Kuzmić
             return null;
         }
 
+
         public Lista fetchDetailsInprog(int id)
+        
         {
             int i = 0;
             foreach (Lista t in Tasks)
