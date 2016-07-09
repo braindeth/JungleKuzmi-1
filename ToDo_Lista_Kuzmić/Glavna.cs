@@ -139,6 +139,7 @@ namespace ToDo_Lista_Kuzmić
                 if (t.State == 1) ;
                 {
                     if (i == id)
+
                     {
                         return t;
                     }
